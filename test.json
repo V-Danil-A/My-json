@@ -4,5 +4,8 @@
 "1": "link1",
 "2": "link2"
 },
-"countries": "PT_N"
+"countries": {
+  "PT_N": "",
+  "RU": "",
+}
 }
