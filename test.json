@@ -2,7 +2,8 @@
   "mode": "false",
   "links": {
     "1": "link1",
-    "2": "link2"
+    "2": "link2",
+    "3": "link3"
   },
-  "countries": "PT_UK"
+  "countries": "PT_UK_KM"
 }
