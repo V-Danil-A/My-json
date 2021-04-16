@@ -3,9 +3,9 @@
   "links": {
     "1": "link1"
   },
-  "countries": {
-    "PT": "",
-    "UK": "",
-    "RU": ""
-  }
+  "countries": [
+    "PT",
+    "UK",
+    "RU"
+  ]
 }
