@@ -1,13 +1,9 @@
 {
-  "mode": "true",
+  "mode": "false",
   "links": {
-    "1":"link1",
-    "2":"link2",
-    "3":"link3",
-    "4":"https://www.google.com/webhp?hl=ru&sa=X&ved=0ahUKEwj09PvbpYLwAhVDl4sKHWjsDK0QPAgI"
+    "1":"link1"
   },
   "countries": [
-    "PT",
-    "IK"
+    "PT"
   ]
 }
